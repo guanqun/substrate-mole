@@ -1,0 +1,6 @@
+[package]
+name = "substrate-mole"
+version = "0.1.0"
+authors = ["Guanqun Lu <guanqun.lu@gmail.com>"]
+
+[dependencies]
